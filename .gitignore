@@ -42,9 +42,10 @@ testem.log
 Thumbs.db
 
 /.pnp
-.pnp.js     
+.pnp.js
 # Yarn Integrity file
 .yarn-integrity
+.vscode
 
 package-lock.json
 package.json
