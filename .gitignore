@@ -40,3 +40,20 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+/.pnp
+.pnp.js     
+# Yarn Integrity file
+.yarn-integrity
+
+package-lock.json
+package.json
+angular.json
+tsconfig.json
+tsconfig.lib.prod.json
+tsconfig.app.json
+tsconfig.spec.json
+tsconfig.lib.json
+
+.editorconfig
+ng-package.json
